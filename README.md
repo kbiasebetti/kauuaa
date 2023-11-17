@@ -1,6 +1,6 @@
 <div align="center">
-    <h1 align="center" font-family="Arial">Olá!, Sou o Kauã Biasebetti</h1>
-</div>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Arial&weight=900&size=34&pause=1000&color=7388d9&center=true&vCenter=true&width=728&height=41&lines=Hi+there+👋+I´m+Kauã+Biasebetti%2C;Web+Developer!)](https://git.io/typing-svg)
 
 <div align="center">
   <img height="8" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
@@ -21,8 +21,8 @@
   <br>
 </div>
 
-<div align="center">
-    <h3 align="center">🤝Contact me</h3>
+<div align="center" >
+    <h3 align="center" color="#7388d9">Contact me 🤝</h3>
 </div>
 
 
@@ -35,9 +35,6 @@
   </a>
   <a href="https://www.instagram.com/kbiasebetti/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="instagram logo"  />
-  </a>
-  <a href="mailto:kauamengel17@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo"  />
   </a>
   <br><br>
 </div>
@@ -76,4 +73,20 @@
 <div align="center">
     <img align="center" height="300px" class="spotify" src="https://spotify-recently-played-readme.vercel.app/api?user=12hwsjmyo4n1spbgon0jrv42x&unique={true|1|on|yes}"/>
     <img align="center" height="300px" src="https://cdn.glitch.global/d7e807c9-73a6-4640-8631-4a6c2de3a0a1/meh-monday.gif?v=1700232434127">
+    <br><br>
 </div>
+
+<div align="center">
+  <img height="8" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"  />
+    <br><br>
+</div>
+
+
+<div  align="center" class="divSTATUSFINAL">
+<img class="statusFINAL" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kauuaa&theme=discord_old_blurple&hide_border=true&order=2" height="220em"/> 
+</div>
+
+
+
+
+
