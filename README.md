@@ -2,10 +2,14 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Arial&weight=900&size=34&pause=1000&color=7388d9&center=true&vCenter=true&width=728&height=41&lines=Hi+there+👋+I´m+Kauã+Biasebetti%2C;Web+Developer!)](https://git.io/typing-svg)
 
+
+
 <div align="center">
   <img height="8" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
   <br><br>
 </div>
+
+
 
 <div align="center">
 <img class="coisastatus" src="https://github-readme-stats.vercel.app/api?username=kauuaa&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=discord_old_blurple&hide_border=true&order=2" height="150" alt="stats graph"\>
@@ -21,9 +25,12 @@
   <br>
 </div>
 
+
+
 <div align="center" >
     <h3 align="center" color="#7388d9">Contact me 🤝</h3>
 </div>
+
 
 
 <div align="center">
@@ -63,6 +70,8 @@
     <br><br>
 </div>
 
+
+
 <div align="center">
   <img height="8" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"  />
     <br><br>
@@ -75,6 +84,8 @@
     <img align="center" height="300px" src="https://cdn.glitch.global/d7e807c9-73a6-4640-8631-4a6c2de3a0a1/meh-monday.gif?v=1700232434127">
     <br><br>
 </div>
+
+
 
 <div align="center">
   <img height="8" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"  />
