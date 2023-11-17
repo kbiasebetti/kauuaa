@@ -74,6 +74,6 @@
 
 
 <div align="center">
-    <img align="center" height="340" class="spotify" src="https://spotify-recently-played-readme.vercel.app/api?user=12hwsjmyo4n1spbgon0jrv42x&unique={true|1|on|yes}"/>
-    <img align="center" height="340" src="https://cdn.glitch.global/d7e807c9-73a6-4640-8631-4a6c2de3a0a1/meh-monday.gif?v=1700232434127">
+    <img align="center" height="300px" class="spotify" src="https://spotify-recently-played-readme.vercel.app/api?user=12hwsjmyo4n1spbgon0jrv42x&unique={true|1|on|yes}"/>
+    <img align="center" height="300px" src="https://cdn.glitch.global/d7e807c9-73a6-4640-8631-4a6c2de3a0a1/meh-monday.gif?v=1700232434127">
 </div>
